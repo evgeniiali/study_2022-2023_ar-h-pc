@@ -131,33 +131,30 @@ This text is *italic*.
 ![Команда make](image/91.png){ #fig:009 width=70% }
 
 
-8. Загрузила файлы на Github.(рис. [-@fig:010], рис. [-@fig:011], рис. [-@fig:012]
+8. Загрузила файлы на Github.(рис. [-@fig:010],)
 
-![github загрузка](image/49.png){ #fig:010 width=70% }
+![github загрузка](image/gith.png){ #fig:010 width=70% }
 
-![github загрузка](image/50.png){ #fig:011 width=70% }
-
-![github загрузка](image/51.png){ #fig:012 width=70% }
 
 # Самостоятельная работа
 
 1. Сделала отчёт по лабораторной работе No 3 в формате Markdown.
 
-Заполнила отчет и скомпилировала отчет с использованием Makefile. (рис. [-@fig:013], рис. [-@fig:014], рис. [-@fig:015]
+Заполнила отчет и скомпилировала отчет с использованием Makefile. (рис. [-@fig:011], рис. [-@fig:012], рис. [-@fig:013]
 
-![Заполнила отчет](image/47.png){ #fig:013 width=70% }
+![Заполнила отчет](image/47.png){ #fig:011 width=70% }
 
-![Команда make](image/ytn.png){ #fig:014 width=70% }
+![Команда make](image/ytn.png){ #fig:012 width=70% }
 
-![Проверила корректность полученных файлов](image/48.png){ #fig:015 width=70% }
+![Проверила корректность полученных файлов](image/48.png){ #fig:013 width=70% }
 
-2. Загрузила файлы на github. (рис. [-@fig:016], рис. [-@fig:017], рис. [-@fig:018]
+2. Загрузила файлы на github. (рис. [-@fig:014], рис. [-@fig:015], рис. [-@fig:016]
 
-![Загрузка на github](image/49.png){ #fig:016 width=70% }
+![Загрузка на github](image/49.png){ #fig:014 width=70% }
 
-![Загрузка на github](image/50.png){ #fig:017 width=70% }
+![Загрузка на github](image/50.png){ #fig:015 width=70% }
 
-![Загрузка на github](image/51.png){ #fig:018 width=70% }
+![Загрузка на github](image/51.png){ #fig:016 width=70% }
 
 
 # Выводы
